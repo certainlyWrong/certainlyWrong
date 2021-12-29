@@ -12,7 +12,7 @@
   }
 </style> -->
 
-<div align="center">
+<div align="center" background-color="white">
   <img class="cat" src="https://i.pinimg.com/originals/82/3d/1e/823d1e7e41d0d5ce5a68b3f8e345ee24.gif" width="100">
   <h1>Developer Back-End</h1>
   <img class="cat" src="https://tenor.com/view/bongo-cat-transparent-table-tap-cute-tapping-table-gif-16269826.gif" width="50">
