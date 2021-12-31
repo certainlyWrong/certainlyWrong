@@ -31,8 +31,7 @@
 
   ## CONTATO:
   <a href="https://t.me/adrianorsousa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="https://mailto:adriano42335@gmail.com" alt="Gmail">
-  <img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
+  <a href="http://mailto:adriano42335@gmail.com?subject=Olá%20acabei%20de%20ver%20o%20seu%20perfil%20do%20github" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
 
 </div>
 
