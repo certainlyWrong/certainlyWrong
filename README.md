@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  > Oi! seja bem-vindo.
+  > 👋🏼 Olá! seja bem-vindo. 👋🏼
   >
   > Aqui é o lugar certo para você saber um pouco sobre o que estou fazendo.
 
@@ -12,10 +12,6 @@
   <img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80">
-
-</div>
-
-<div align="center">
 
   ## SKILLS:
 
