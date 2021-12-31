@@ -24,9 +24,9 @@
 
   ## STATUS:
 
-  [![certainlyWrong](https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=highcontrast)](https://github.com/certainlyWrong/)
+  [![certainlyWrong](https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=dracula)](https://github.com/certainlyWrong/)
 
-  [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=highcontrast)](https://github.com/certainlyWrong/)
+  [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula)](https://github.com/certainlyWrong/)
   <br>
   <br>
 
