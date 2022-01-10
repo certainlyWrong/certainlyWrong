@@ -13,6 +13,15 @@
   <img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80">
   <img src="https://media.giphy.com/media/H6PNB75ZvYUDZmREn3/giphy.gif" width="80">
 
+  <br>
+  
+  ## CONTATO:
+  <a href="https://t.me/adrianorsousa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+  <a href="mailto:adriano42335@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/adriano-r-de-sousa-34bb44212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  
+  <br>
+
   ## SKILLS:
 
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
@@ -20,19 +29,10 @@
   <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
 
   <br>
-  <br>
 
   ## STATUS:
 
   [![certainlyWrong](https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=dracula)](https://github.com/certainlyWrong/)
-
-  [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula)](https://github.com/certainlyWrong/)
-  <br>
-  <br>
-
-  ## CONTATO:
-  <a href="https://t.me/adrianorsousa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:adriano42335@gmail.com" alt="Gmail"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
-
+   [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula)](https://github.com/certainlyWrong/)
 </div>
 
