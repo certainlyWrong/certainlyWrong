@@ -1,9 +1,10 @@
 
 <div align="center">
 
-  > 👋🏼 Olá! seja bem-vindo. 👋🏼
-  >
-  > Aqui é o lugar certo para você saber um pouco sobre o que estou fazendo.
+  👋🏼 Olá! seja bem-vindo. 👋🏼
+  
+  Aqui é o lugar certo para você saber um pouco sobre o que estou fazendo.
+  > "Talk is cheap. Show me the code." - *Linus Torvalds*
 
   <img src="https://forums-images.oneplus.net/data/webimg/2021/01-29/6014374e3a762.gif" width="120">
   
@@ -32,7 +33,8 @@
 
   ## STATUS:
 
-  [![certainlyWrong](https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=dracula)](https://github.com/certainlyWrong/)
-   [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dracula)](https://github.com/certainlyWrong/)
+  [![certainlyWrong](https://github-readme-stats.vercel.app/api?username=certainlyWrong&theme=dark)](https://github.com/certainlyWrong/)
+  
+  [![certainlyWrong](https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&hide=html&layout=compact&theme=dark)](https://github.com/certainlyWrong/)
 </div>
 
