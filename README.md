@@ -19,16 +19,16 @@
   
   ## CONTATO:
   <a href="https://t.me/adrianorsousa"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
-  <a href="mailto:adriano42335@gmail.com"><img src="https://img.shields.io/badge/-Gmail-FF0000?style=for-the-badge&labelColor=FF0000&logo=gmail&logoColor=white"/></a>
+  <a href="mailto:adriano42335@gmail.com"><img src="https://img.shields.io/badge/-Gmail-373B35?style=for-the-badge&labelColor=373B35&logo=gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/adriano-r-de-sousa-34bb44212/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   
   <br>
 
   ## SKILLS:
 
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-04C4D9?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-F28D8D?style=for-the-badge&logo=linux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F24B4B?style=for-the-badge&logo=git&logoColor=white" />
 
   <br>
 
