@@ -1,7 +1,7 @@
 
 <div align="center">
 
-  👋🏼 Olá! seja bem-vindo. 👋🏼
+Olá! seja bem-vindo.
   
   Aqui é o lugar certo para você saber um pouco sobre o que estou fazendo.
   > "Talk is cheap. Show me the code." - *Linus Torvalds*
