@@ -23,10 +23,6 @@
         <br>React Native
       </td>
       <td align="center" width="96">
-        <img src="https://seeklogo.com/images/E/expo-logo-01BB2BCFC3-seeklogo.com.png" width="48" height="48" alt="Expo" />
-        <br>Expo
-      </td>
-      <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="48" height="48" alt="Next.js" />
         <br>Next.js
       </td>
