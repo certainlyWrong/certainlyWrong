@@ -11,19 +11,24 @@
   <a href="mailto:SEU-EMAIL-AQUI">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
+  <a href="https://github.com/certainlyWrong">
+    <img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
 </div>
 
 <br />
 
-### 👨‍💻 Sobre Mim
+### 👨‍💻 Sobre mim
 
-Sou um **Engenheiro de Software** focado em soluções móveis e eficiência de processos. Com mais de **4 anos de experiência**, atuo na arquitetura e desenvolvimento de aplicações nativas e híbridas de alta performance.
+Sou **Engenheiro de Software** com mais de **4 anos de experiência** e gosto de trabalhar perto do “chão” do produto: entender o problema, propor uma solução simples de manter e evoluir com consistência.
 
-Minha expertise vai além do mobile: crio ecossistemas completos desenvolvendo **APIs robustas** e **automações inteligentes** que integram sistemas e otimizam fluxos de trabalho.
+Tenho afinidade com o mundo **open source** e curto acompanhar como ferramentas e comunidades resolvem problemas reais. Também gosto de aprender continuamente e explorar temas de tecnologia que melhoram o dia a dia de quem desenvolve (arquitetura, integrações, automação, boas práticas e observabilidade).
 
-- 📱 **Mobile:** Especialista em criação de interfaces fluidas e performáticas com Flutter e React Native.
-- ⚙️ **Backend & Automação:** Desenvolvimento de APIs escaláveis e scripts de automação para resolver problemas complexos.
-- 🚀 **Foco:** Clean Code, Arquitetura Limpa e Experiência do Usuário (UX).
+No dia a dia, acabo atuando entre mobile e backend, construindo aplicações e serviços que se conversam bem e que são fáceis de operar em produção.
+
+- 📱 **Mobile:** Flutter e React Native, com foco em qualidade de UI, performance e integração com APIs.
+- ⚙️ **Backend & Automação:** APIs em Node/NestJS e Python/FastAPI, integrações e rotinas automatizadas para reduzir fricção operacional.
+- 🧩 **Engenharia:** código legível, arquitetura limpa quando faz sentido, testes quando necessários e documentação objetiva.
 
 ---
 
@@ -53,11 +58,16 @@ Minha expertise vai além do mobile: crio ecossistemas completos desenvolvendo *
 
 ---
 
-### 📊 GitHub Analytics
+### 📊 GitHub em números
 
 <div align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=certainlyWrong&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=certainlyWrong&layout=compact&theme=dracula&hide_border=true" alt="Top Langs" />
+  <img align="center" src="https://streak-stats.demolab.com?user=certainlyWrong&theme=dracula&hide_border=true" alt="GitHub Streak" />
+</div>
+
+<br />
+
+<div align="center">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=certainlyWrong&theme=dracula" alt="GitHub Profile Summary" />
 </div>
 
 <br />
