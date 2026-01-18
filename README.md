@@ -60,10 +60,6 @@ No dia a dia, acabo atuando entre mobile e backend, construindo aplicações e s
 
 ### 📊 GitHub em números
 
-<div align="center">
-  <img align="center" src="https://streak-stats.demolab.com?user=certainlyWrong&theme=dracula&hide_border=true" alt="GitHub Streak" />
-</div>
-
 <br />
 
 <div align="center">
